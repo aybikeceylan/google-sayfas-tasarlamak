@@ -1,0 +1,59 @@
+.google {
+
+width: 20rem;
+margin: auto;
+padding: auto;
+
+}
+.imgdiv{
+width: 30rem;
+margin: auto;
+text-align: center;
+
+}
+
+.form {
+    background-color: gray;
+
+    text-align: center;
+}
+
+.box {
+
+
+display: flex;
+}
+
+.boxdiv {
+
+    
+    width: 33%;
+    height: 6rem;
+    justify-content: center;
+    text-align: center;
+ padding-top: 15px;
+
+}
+
+.box1 {
+background-color: lightblue;
+margin: auto;
+padding: auto;
+text-align: center;
+
+}
+
+.box2 {
+
+    background-color: rgb(102, 199, 231);
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    }
+.box3 {
+
+        background-color: rgb(55, 183, 226);
+        margin: auto;
+        padding: auto;
+        text-align: center;
+        }
